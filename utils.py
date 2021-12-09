@@ -6,7 +6,7 @@ def CreateScheduler():
     """This function creates a schedule template for working days. 
     It requires an excel file as input containing each date (defined as 'Date') of a year. 
     including a column 'IsWorkingDay' containing 0 (meaning not a workingday) or 1 (meaning is a workingday).
-    This function then transforms this into an output file including a date per workingday per year per month."""
+    This function then transforms this into an output file including a date per workigitngday per year per month."""
 
     df = pd.read_excel("workingdays.xlsx") 
     df['Year'] = pd.DatetimeIndex(df['Date']).year ## Add year to group on
