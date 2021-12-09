@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
+import os
 
 def CreateScheduler():
     """This function creates a schedule template for working days. 
@@ -31,4 +32,15 @@ def CreateScheduler():
     df_workingdays.rename(columns={'IsWorkingDay':'WorkingDay'},inplace=True)
 
     ## Save results to a file as
-    df_workingdays.to_excel('Workingdays_cleansed.xlsx',index=False)    
+    df_workingdays.to_excel('Workingdays_cleansed.xlsx',index=False) 
+
+
+def RunWorkflow(workflow_id,workflow_path):
+    pass
+    
+def CheckSchedulerHealth():
+    pass
+
+def UpdateQueue():
+    config='QueueTable' ##<- how can we best do this?
+    pass
