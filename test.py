@@ -1,1 +1,2 @@
 import test
+test.__annotations__
