@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T19:46:25.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rBqFPvUYvcZwWyzidz9X" version="16.6.2" type="github"><diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">1Zjfr5owFMf/Gh7vAqKgj5u6LdluFmMW9bGhZ8BWKamtwv3rV+RgIVwNS7yr1xc53/b0xzmf1oOOP98XXwTJk2dOgTkjlxaOv3BG+hOO9FellLUSBijEIqW15Blhnb4Aii6qKqVw6HSUnDOZ5l0x4lkGkexoRAh+6nb7xVl31pzE0BPWEWF9dZNSmdTqdOIa/SukcdLM7LnYsidNZxQOCaH81JL8pePPBeeyftoXc2BV8Jq41H6fr7ReFiYgk0McXjZSzI8/V1R9221Hhfvs0dWTh9k4yLLZMVAdADS5kAmPeUbY0qifBFcZhWpYV1umz3fOcy16WvwNUpaYTaIk11Ii9wxboUjltvW8q4b6MEFrUeDIZ6NsjEyKcts2Wl6VadzOVuNX76/a1NW4oXTgSkRwI1hj5I+IGOSNfsElu/pYAN+DXo/2E8CITI/ddRDkM770MynUD5jFf8goLvJImMKZPuY5SyM9Nc96yT4lqYR1Ts77Pukj3E0UjgVCQnE7fP3tosPTOMADgDeAH6J9MufJaw5J0jpLjd/dQ+T5NqE3oO9aLa9Df0d4g4HwhjbhDXrwrqMEqNIZsEDu44EbvJfb+o7ghgPB9SY2yQ175K4UqEfAdjKzju34vdy3psgwdcWuU1a8eZExHYj7zCbt0x7tGy7+pFlMSXmwwLzvdpnXgm3m3V4Y/gfzDb+eY6tIng3k12qRPLvG7+LMr5uDqF7heKbhsU/zAxQek17AfiiZK6k1xuNHOPJv+TOnTfOefm5r/dvhL/8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-22T20:12:13.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qxveJ260ZzKUkagAk0jd" version="16.6.2" type="github">
+  <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
+    <mxGraphModel dx="2484" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-5" target="LZMlXwBwSsihBQMbfKdp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-5" value="D&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Application" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="-500" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-6" target="LZMlXwBwSsihBQMbfKdp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-6" value="D&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Schedule" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="-500" y="407" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-7" target="LZMlXwBwSsihBQMbfKdp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-7" value="D&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Queue" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="-500" y="523" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-8" target="LZMlXwBwSsihBQMbfKdp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-8" value="D&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;OutputLogs" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="-500" y="640" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-9" target="LZMlXwBwSsihBQMbfKdp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-9" value="D&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp;WorkingDays&lt;br&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-10" target="LZMlXwBwSsihBQMbfKdp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-10" value="D&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp;WorkingDays per month" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-11" target="LZMlXwBwSsihBQMbfKdp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-11" value="Add Application" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-13" target="LZMlXwBwSsihBQMbfKdp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-13" value="Add Application to Schedule" style="html=1;dashed=0;whitespace=wrap;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-21" target="LZMlXwBwSsihBQMbfKdp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-21" value="Add scheduled applications to Queue" style="html=1;dashed=0;whitespace=wrap;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-25" target="LZMlXwBwSsihBQMbfKdp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-25" value="Execute queued applications" style="html=1;dashed=0;whitespace=wrap;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-28" target="LZMlXwBwSsihBQMbfKdp-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-28" value="Upload workingdays scheme" style="html=1;dashed=0;whitespace=wrap;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-30" value="Alert on errors" style="html=1;dashed=0;whitespace=wrap;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LZMlXwBwSsihBQMbfKdp-34" target="LZMlXwBwSsihBQMbfKdp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZMlXwBwSsihBQMbfKdp-34" value="Create cumulative workingdays per month" style="html=1;dashed=0;whitespace=wrap;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
